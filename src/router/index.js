@@ -33,6 +33,10 @@ const routes = [
         path: '/rights',
         name: 'rights',
         component: () => import('../components/power/Rights.vue'),
+      },{
+        path: '/categories',
+        name: 'categories',
+        component: () => import('../components/goods/Cate.vue'),
       },
     ]
   }

@@ -116,6 +116,10 @@
     color: #fff;
     font-size: 20px;
 
+    .el-button {
+      margin-right: 20px;
+    }
+
     >div {
       display: flex;
       align-items: center;

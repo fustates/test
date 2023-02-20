@@ -1,4 +1,4 @@
-# bilibilivue
+# vue
 
 ## Project setup
 ```
